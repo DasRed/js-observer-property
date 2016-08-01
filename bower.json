@@ -1,0 +1,16 @@
+{
+    "name": "property-observer",
+    "homepage": "https://github.com/DasRed/js-observer-property",
+    "main": "",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "object-observer": "1.*"
+    }
+}
