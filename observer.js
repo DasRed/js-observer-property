@@ -20,7 +20,7 @@
      *
      * @param {Object} object
      * @param {String} property
-     * @param {Object} options
+     * @param {Object} [options]
      *
      * @event {void} get({ObjectOfObservedProperty}, {PropertyName}, value [, PARAMETERS]) fires if some whants to get the value
      * @event {*} get:before({ObjectOfObservedProperty}, {PropertyName} [, PARAMETERS]) fires before if some wants to get the value. if callback returns a value other then undefined, this value will be retruned from get
