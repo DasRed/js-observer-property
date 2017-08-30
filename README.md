@@ -2,6 +2,7 @@
 ## Install
 ```
 bower install property-observer --save
+npm install js-property-observer --save
 ```
 
 ## How To

@@ -1,0 +1,16 @@
+{
+  "name": "js-property-observer",
+  "version": "1.0.3",
+  "description": "Observer for one property of an object.",
+  "main": "observer.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DasRed/js-observer-property.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DasRed/js-observer-property/issues"
+  },
+  "homepage": "https://github.com/DasRed/js-observer-property#readme"
+}
